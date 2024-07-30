@@ -1,0 +1,23 @@
+Historia de Usuario Epica
+
+Sistema de informacion Transaccional
+
+1. Nombre del proyecto: AutoDeal.
+2. Proceso: Venta de vehiculos.
+3. Actores: Cliente, Vendedor.
+4. Producto/Servicio: Producto.
+5. Escenario Actual: El concensionario actualmente tiene un metodo muy poco efectivo de ventas en la
+actualidad, lo cual es la venta fisica sin tener en cuenta la venta online.
+    A. El comprador llega al concensionario y pregunta por los vehiculos.
+    B. El vendedor comenta la disponibilidad de los vehiculos en el concesionario.
+    C. El comprador pregunta por el precio de el vehiculo que le interesa.
+    D. El vendedor comenta el precio del vehiculo y cuales son los medios de pago.
+    E. El vendedor entrega todos los papeles adecuados al comprador.
+    F. El comprador firma todos los documentos y paga el vehiculo con el medio de pago que se le 
+    facilite.
+    G. El vendedor le entrega las llaves del vehiculo.
+    H. El comprador termina el proceso llevandose el vehiculo.
+6. Escenario Objetivo: Con AutoDeal integrar el proceso de ventas online para que sea mas eficiente
+para los clientes.
+7. problematica: El concesionario enfrenta una serie de desafios al depender exclusivamente de las ventas fisicas, lo que limita su alcance geografico y accesibilidad para los clientes, ademas de enfrentar una fuerte competencia de otros concesionarios que ya ofrecen opciones de compra online.
+8. Solucion: AutoDeal propone desarrollar una plataforma de ventas online que permita a los clientes explorar el inventario, comparar modelos, consultar precios y opciones de financiamiento, y realizar compras de manera segura. La plataforma se integrara con los sistemas internos del concesionario para asegurar una gestion eficiente del inventario y la actualizacion en tiempo real de la disponibilidad de vehiculos.
