@@ -1,0 +1,75 @@
+.genero-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  background-color: #f0f4f8;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.genero-title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  color: #333;
+  text-align: center;
+}
+
+.genero-table {
+  width: 100%;
+  max-width: 800px;
+  border-collapse: collapse;
+  background-color: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.genero-table thead {
+  background-color: #007bff;
+  color: white;
+}
+
+.genero-table th,
+.genero-table td {
+  padding: 12px 15px;
+  text-align: center;
+  border-bottom: 1px solid #ddd;
+}
+
+.genero-table tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.genero-table th {
+  font-weight: bold;
+}
+
+.genero-table td {
+  color: #333;
+}
+
+.loading-text {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.fetch-button,
+.back-button {
+  margin: 10px 0;
+  padding: 10px 20px;
+  font-size: 1rem;
+  color: white;
+  background-color: #007bff; /* Color de fondo */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.fetch-button:hover,
+.back-button:hover {
+  background-color: #0056b3; /* Color de fondo al pasar el ratón */
+}
